@@ -1,1 +1,1 @@
-# Project for reading online manga wihtout ads
+# Project for reading online manga without boring ads
